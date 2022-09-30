@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
+  <img src="https://telegra.ph/file/ec2ccdd215ede2ceba19e.jpg">
 </p>
 
 <h4><p align="center"> EMIKO ROBOT </p></h4>
@@ -25,7 +25,7 @@
 - You can just change the name of github on deploy link and done, the repos able to deploy on heroku.
 - Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://youtu.be/GMaYMYhf_Vk)
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/kennedy-ex/EmikoRobot"> <img 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/azzurezxv/EmikoRobot"> <img 
 src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 
